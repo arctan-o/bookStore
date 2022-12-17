@@ -1,0 +1,23 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/search/search",
+        "pages/home/home",
+        "pages/detail/detail",
+        "pages/orders/orders",
+        "pages/category/category",
+        "pages/cart/cart",
+        "pages/address/address",
+        "pages/user/user",
+        "pages/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "Weixin",
+        "navigationBarTextStyle": "black"
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+}
